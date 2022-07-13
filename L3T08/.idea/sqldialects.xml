@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/719b5fbb-da63-47e9-9a5b-36f26c10a443/console_3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Poised.java" dialect="GenericSQL" />
+  </component>
+</project>

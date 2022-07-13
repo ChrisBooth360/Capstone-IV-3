@@ -1,0 +1,26 @@
+
+Œ
+java:S1319ž"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(â¤î›ýÿÿÿÿ
+c
+java:S2095¬"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+_
+java:S2095¦"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³
+_
+java:S2095õ"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³
+_
+java:S2095³"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³
+c
+java:S2095û"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+f
+java:S2095ä"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³8ÙÖÓ©›0
+c
+java:S2095¹"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+j
+java:S2095ê"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8ØÖÓ©›0
+o
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ìðêö8íÖÓ©›0
+X	java:S125€"<This block of commented-out lines of code should be removed.(÷Í·68‚×Ó©›0

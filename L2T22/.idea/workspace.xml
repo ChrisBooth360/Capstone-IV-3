@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7b7ee7c-f94c-4b53-87ca-c95c1739abf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../L2T03/L2T03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T04/L2T04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T05/L2T05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T06/L2T06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T07/L2T07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T13/L2T13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T14/L2T14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/L2T15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/src/GCDRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/src/searchReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T16/L2T16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T17/L2T17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T18/L2T18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T20/L2T20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T20/src/RPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/Architect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/BuildingInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/Contractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/ProjectInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/AutomobileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Iyp2nojT7kEgDqgKHscZEmdD6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b7ee7c-f94c-4b53-87ca-c95c1739abf0" name="Changes" comment="" />
+      <created>1652815075467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652815075467</updated>
+    </task>
+    <servers />
+  </component>
+</project>

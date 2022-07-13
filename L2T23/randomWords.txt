@@ -1,0 +1,9 @@
+SQL
+JavaScript
+Python
+Java
+React
+GitHub
+Git
+HTML
+CSS
