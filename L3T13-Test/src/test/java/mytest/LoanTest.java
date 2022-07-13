@@ -1,37 +1,35 @@
 package mytest;
 
+import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
+
 class LoanTest {
 
-    @org.junit.jupiter.api.Test
-    void getYearlyInterestRate() {
+    @Test
+    public void testPaymentMethods() {
+        double annualInterestRate = 2.5;
+        int numberOfYears = 5;
+        double loanAmount = 1000;
+        Loan loan = new Loan(annualInterestRate, numberOfYears, loanAmount);
+        assertTrue(loan.getMonthlyPayment() ==
+                getMonthlyPayment(annualInterestRate, numberOfYears, loanAmount));
+        assertTrue(loan.getTotalPayment() ==
+                getTotalPayment(annualInterestRate, numberOfYears, loanAmount));
+    }
+    private double getMonthlyPayment(double annualInterestRate, int
+            numberOfYears,
+                                     double loanAmount) {
+        double monthlyInterestRate = annualInterestRate / 1200;
+        double monthlyPayment = loanAmount * monthlyInterestRate /
+                (1 - (1 / Math.pow(1 + monthlyInterestRate, numberOfYears * 12)));
+        return monthlyPayment;
+    }
+    public double getTotalPayment(double annualInterestRate, int
+            numberOfYears,
+                                  double loanAmount) {
+        return getMonthlyPayment(annualInterestRate, numberOfYears,
+                loanAmount) * numberOfYears * 12;
     }
 
-    @org.junit.jupiter.api.Test
-    void setYearlyInterestRate() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void getYears() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void setYears() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void getAmount() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void setAmount() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void getMonthlyPayment() {
-    }
-
-    @org.junit.jupiter.api.Test
-    void getTotalPayment() {
-    }
 }

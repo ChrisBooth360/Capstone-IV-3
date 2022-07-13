@@ -4,13 +4,83 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="727d5ffe-d76c-41d5-8722-59e09548b9ff" name="Changes" comment="" />
+    <list default="true" id="727d5ffe-d76c-41d5-8722-59e09548b9ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../L2T03/L2T03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T04/L2T04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T05/L2T05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T06/L2T06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T07/L2T07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T13/L2T13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T14/L2T14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/L2T15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/src/GCDRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/src/searchReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T16/L2T16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T17/L2T17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T18/L2T18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T20/L2T20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T20/src/RPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Architect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Contractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProjectInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/randomWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/src/main/java/AlphabeticalWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/src/main/java/PriorityQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/src/main/java/randomWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/AutomobileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/PoisedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Poised.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Person.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Customer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Project.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ProjectInfo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Contractor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Architect.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29Cie9trTMUOZLcaHVT9C0cPnPA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,6 +88,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Poised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Poised" />
+      <module name="L2T21" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Poised" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,5 +114,16 @@
       <updated>1652623564967</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,10 +1,236 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Chris Booth | Portfolio</title>
 </head>
 <body>
-$END$
+
+    <header>
+        <h1>Chris Booth Portfolio</h1>
+        <nav>
+            <a href="#AboutMeNav">About Me | </a>
+            <a href="#ProjectsNav">Projects | </a>
+            <a href="#ExperienceNav">Experience | </a>
+            <a href="#EducationNav">Education</a>
+            <a href="#WebsitesNav">Websites</a>
+        </nav>
+    </header>
+    <hr>
+    <section class="blue">
+        <!-- There are two div elements here that will go side by side when CSS is implemented (About Me will go on the left, Contact Me on the right). -->
+        <div id="AboutMe">
+
+            <h2 id="AboutMeNav">About Me</h2>
+            <p>
+                Welcome to my coding portfolio, my name is Chris Booth and I will be your tour guide.
+            </p>
+
+            <h4>Joining the Tech World</h4>
+            <p>Growing up, I would always see the actors on the big screen typing away at their keyboards, certain that their fingers would catch on
+                fire from all the 'hacking' and 'computer whizzing' they were doing. I never thought that I would ever be able to do something so cool (I mean,
+                being able to type that fast would surely cause finger aches, plus, how could I compete with that level of clearly complex mathematics and arithmetic?).
+            </p>
+            <p>But as I began my coding journey, I have learnt two important lessons: 1) Hollywood have deeply misrepresented what coding and the tech industry is,
+                but also 2) I am darn good at coding. While I might not be the best coder out there, I am picking up things way faster than I thought and so many of
+                the complex topics I have come across seems to be second nature to me - including OOP and Databases. While I've still got a lot to learn and my
+                technical vocab definitely still needs so work, I believe that I am ready to take my first step into the tech world.
+            </p>
+
+            <h4>My Passions and Strengths</h4>
+            <p> While I have discovered a great passion for coding, this has not been my first love. Writing and producing creative content were my first loves as a
+                child and drove me to build a career in the journalism world. From writing fiction and non-fiction, to studying radio journalism, to being the first
+                person in South Africa to obtain a Master of Arts in Health Journalism, I have always had a great desire to create enthralling content that not only
+                inspires, but also informs and educates people. As I'm sure you can tell with my Health Journalism degree and my work with a children's radio station
+                based at Red Cross War Memorial Children's Hospital, the topic of health is also one that is close to my heart, and it is something that I wish to bring
+                along with me on my tech journey.
+            </p>
+            <p> This brings me to my key strengths. A logic focused mind, as well as a willingness to learn, a desire to create, and an almost stubborn-headed need to
+                constantly perfect and build on my abilities, make me the ideal person to work in the tech industry. Empathy and kindness are also two major strengths
+                that I possess, and while these not the most needed strengths in tech, they do allow me to be a great team player who is always patient and eager to work together to create a better world.
+            </p>
+            <p>For the final stage of the tour of my portfolio, please find my current projects, my professional experience, education and official strengths all outlined below.
+            </p>
+        </div>
+        <div id="ContactMe">
+            <h2>Contact Me</h2>
+            <img id="ProfilePic" src="/images/chrisbooth.jpg" alt="Chris Booth Profile Pic">
+            <ul>
+                <li>+27 72 336 2004</li>
+                <li><a href="mailto:chris.booth.ct@gmail.com">chris.booth.ct@gmail.com</a></li>
+                <li><a href="https://www.linkedin.com/in/chris-w-booth/" target = "_blank">LinkedIn Profile</a></li>
+                <li><a href="https://github.com/ChrisBooth360" target = "_blank">GitHub</a></li>
+                <li><a href="https://chrisboothct.wixsite.com/portfolio" target = "_blank">Journalism Portfolio</a></li>
+            </ul>
+        </div>
+    </section>
+    <hr>
+    <section class="white">
+        <h2 id="ProjectsNav">Projects</h2>
+        <h3>Project Management System | Java 18 & MySQL</h3>
+        <p>
+            For the Software Engineering Bootcamp at HyperionDev, I built a project management system
+            for a small structural engineering firm called <em>Poised</em>.
+            They do engineering needed to ensure the structural integrity of various buildings.
+            The firm would use this program to keep track of the many projects they work on.
+            This is done by taking in all the necessary information about a project.
+        </p>
+        <p>
+            The program makes it possible to update the information about each project,
+            to finalise a project and create a customer invoice, to see a list of incomplete and overdue projects,
+            and to find and select specific projects.
+
+            The program makes use of Object-Oriented Programming and a MySQL database to keep track of the projects and build Project Objects.
+        </p>
+        <p>
+            <a href="">Link to GitHub Project</a>
+        </p>
+
+        <h3>Shoe Warehouse Inventory | Python</h3>
+        <p>
+            For the Software Engineering Bootcamp at HyperionDev, I built a Capstone program that makes use of Object-Orientation Programming
+            (classes and objects) to keep track of the stock at a shoe warehouse.
+            It draws information about each shoe and its stock from a text document, printing it in an easy-to-read table.
+            The program then allows the user to search each product by code, it also determines which product needs to be restocked,
+            determines which product should go on sale, and determines the value of each product (based on the quantity and cost of the item).
+            It also allows new products to be added to the inventory list and written to the external text document.
+        </p>
+        <p>
+            <a href="https://github.com/ChrisBooth360/Capstone-III">Link to GitHub Project</a>
+        </p>
+
+        <h3>Task Manager | Python</h3>
+        <p>
+            This is a Capstone program for a small business or organisation to help them manager the tasks assigned to each member of the team.
+            A user must login before they can add or edit any of the tasks or other users in the task manager.
+            Making use of text files to store the user and task data, any user can add a task, view all tasks, view their own specific tasks,
+            and edit or mark their tasks as complete. Only the admin user can register a new user, generate reports
+            and view the statistics for the task manager.
+        </p>
+        <p>
+            <a href="https://github.com/ChrisBooth360/Capstone-II">Link to GitHub Project</a>
+        </p>
+
+        <h3>Financial Calculators | Python</h3>
+        <p>
+            For my first Capstone project during my Software Engineering Bootcamp, I built a program using Python with two different financial calculators:</p>
+        <ul>
+            <li>an investment calculator</li>
+            <li>a home loan repayment calculator</li>
+        </ul>
+        <p>The user can choose which calculator they would like to use before entering the details necessary for each financial calculation.
+        If they choose the investment calculator, then the user has a further choice between simple and compound interest
+        after they enter the necessary detail.</p>
+        <p>
+            <a href="https://github.com/ChrisBooth360/Capstone-I">Link to GitHub Project</a>
+        </p>
+
+    </section>
+    <hr>
+    <section class="blue">
+        <!-- There are three div elements here that will go side by side when CSS is implemented (Experience and Education
+        will go on the left, Strengths on the right). -->
+        <div id="Experience">
+            <h2 id="ExperienceNav">Experience</h2>
+
+            <h3>Research Assistant (part-time since March 2022)</h3>
+            <p><em>March 2022 – Present | UCT, Cape Town</em></p>
+            <ul>
+                <li>Conducted over 50 Child and Caregiver surveys on Health Quality of Life
+                for technology dependent children (primarily children with
+                tracheostomies and/or using ventilators) at Red Cross War Memorial
+                Children’s Hospital and Christiaan Barnard Hospital.</li>
+            </ul>
+
+            <h3>Content Producer (part-time since Jan 2022)</h3>
+            <p><em>October 2017 – Present | RX Radio, Cape Town</em></p>
+            <ul>
+                <li>Trained over 100 Child/Young Reporters in radio and life skills.</li>
+                <li>Developing Children's Rights in Hospital Charter to be adopted by Red
+                Cross War Memorial Children's Hospital.</li>
+                <li>Produced educational content for over 6 monthly shows and over 200
+                health-related podcasts.</li>
+                <li>Writer and copy editor for RX Radio’s social media, newsletter and blog
+                (brand awareness).</li>
+                <li><strong>Winner of the 2020 WHO Reboot Health and Wellbeing Challenge</strong></li>
+            </ul>
+
+            <h3>Communications Specialist</h3>
+            <p><em>February 2018 – December 2018 | The Harry Crossley Children's Nursing
+                Development Unit, Cape Town</em></p>
+            <ul>
+                <li>Interviewed over 10 nursing students from various countries in Africa
+                    about their experiences.</li>
+                <li>Wrote articles and content for CNDU's website.</li>
+                <li>Created social media posts and content for public relation purposes.</li>
+            </ul>
+
+            <h3>English Instructor</h3>
+            <p><em>June 2015 – August 2017 | GABA Corporation, Tokyo, Japan</em></p>
+            <ul>
+                <li>Taught adults and teenagers English in one-on-on lessons.</li>
+                <li>Taught a variation of Business English and Casual English.</li>
+                <li> Conducted First Lessons for individuals wanting English lessons.</li>
+            </ul>
+        </div>
+        <div id="Education">
+            <h2 id="EducationNav">Education</h2>
+
+            <h3>Software Engineering Bootcamp | HyperionDev</h3>
+            <p><em>February 2022 - August 2022</em></p>
+            <p>Enjoyed six months of learning different coding languages (including Python and Java), as well as learning about
+            SQL databases, advanced algorithms and Machine Learning. I decided to take this course in order to jump-start a career in tech.
+            </p>
+
+            <h3>Master of Arts: Health Journalism | Rhodes University</h3>
+            <p><em>February 2013 - December 2014</em></p>
+            <p>Completed with distinction. Thesis: <em>“Creating evidence-based
+                guidelines for healthy eating
+                educational campaigns aimed at low income South Africans: a case study of
+                Grahamstown”</em>
+            </p>
+
+            <h3>Bachelor of Journalism | Rhodes University</h3>
+            <p><em>February 2009 - December 2012</em></p>
+            <p>Completed with distinction. Specialised in radio journalism where I worked as a broadcast tutor
+                and for Cue Radio during the Grahamstown Arts Festival.
+            </p>
+        </div>
+        <div id="Skills">
+            <h2>Skills and Strengths</h2>
+            <ul>
+                <li>Adobe Creative Suit (primarily Audition and Premiere</li>
+                <li>Java and JUnit Testing</li>
+                <li>SQL Databases</li>
+                <li>Python</li>
+                <li>JavaScript</li>
+                <li>HTML & CSS (Bootstrap)</li>
+                <li>Training children and adults</li>
+                <li>Working with children and communities</li>
+            </ul>
+        </div>
+    </section>
+    <hr>
+    <section>
+        <h2 id="WebsitesNav">Websites</h2>
+
+        <h3>Booth In Japan</h3>
+        <img src="" alt="Booth In Japan">
+        <p>Teaching English in Japan was a great personal and professional experience that helped me grow as a person
+            and develop my interpersonal skills. However, not wanting to leave my journalistic skills to rust,
+            I started a blog called Booth In Japan where I wrote and shared articles about a variety of topics ranging
+            from travel information, cultural information, and personal experiences. The blog was intended to act
+            as a guide for those visiting Japan - particularly other South Africans. I also produced and edited a number of videos on this blog.</p>
+        <a href="https://boothinjapan.wordpress.com/">Click here for more</a>
+
+        <h3>WHO's Reboot Health and Wellbeing Challenge</h3>
+        <img src="" alt="Reboot Health and Wellbeing Challenge">
+        <p>With the outbreak of the COVID-19 pandemic, RX Radio started a new project called Children's Voices on COVID-19 where we created PSA,
+            captured children's experiences and provided entertainment during the lockdown. We felt it was important for children's voices
+            to be heard and shared with other children around the world.</p>
+        <p>This project was announced in July 2020 as one of the two winners of the UN and WHO's Reboot Health and Wellbeing Innovation Challenge
+            - a victory which has lead us to be a part of the World Health Assembly in May 2021.</p>
+        <a href="http://rxradio.co.za/coronavirus/">Click here for more</a>
+    </section>
 </body>
 </html>

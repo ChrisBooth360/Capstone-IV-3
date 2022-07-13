@@ -7,7 +7,7 @@ public class Person {
      * enum Type is used to declare the constant attributes of Architect, Contractor, and Customer.
      */
     enum Type {
-        ARCHITECT, CONTRACTOR, CUSTOMER
+        ARCHITECT, CONTRACTOR, CUSTOMER, ENGINEER, MANAGER
 
     }
     // Attributes for the Person superclass are declared. All of them are strings.
@@ -67,6 +67,22 @@ public class Person {
         address = newAddress;
     }
 
+    public String getName(){
+        return name;
+    }
+
+    public String getPhone(){
+        return phone;
+    }
+
+    public String getEmail(){
+        return email;
+    }
+
+    public String getAddress(){
+        return address;
+    }
+
     /**
      * This method turns the Type attributes into relevant strings.
      * @return returns the string of the type of person
@@ -79,6 +95,10 @@ public class Person {
             return "Contractor";
         } else if (personType == Type.CUSTOMER){
             return "Customer";
+        } else if (personType == Type.ENGINEER){
+            return "Structural Engineer";
+        } else if (personType == Type.MANAGER){
+            return "Project Manager";
         } else{
             return null;
         }

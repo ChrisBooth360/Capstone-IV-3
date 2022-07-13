@@ -4,11 +4,106 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e06748e6-922f-498e-ad22-17548b7c676f" name="Changes" comment="" />
+    <list default="true" id="e06748e6-922f-498e-ad22-17548b7c676f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../L2T03/L2T03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T04/L2T04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T05/L2T05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T06/L2T06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T07/L2T07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T13/L2T13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T14/L2T14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/L2T15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/src/GCDRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T15/src/searchReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T16/L2T16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T17/L2T17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T18/L2T18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T20/L2T20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T20/src/RPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/Architect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/Contractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T21/src/main/java/ProjectInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/randomWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/src/main/java/AlphabeticalWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/src/main/java/PriorityQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T23/src/main/java/randomWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2T24/.idea/L2T24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T07/L3T07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T07/src/BookstoreClerk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78d51894-64f2-4736-8aed-2a97ed14ba67.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78d51894-64f2-4736-8aed-2a97ed14ba67/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78d51894-64f2-4736-8aed-2a97ed14ba67/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78d51894-64f2-4736-8aed-2a97ed14ba67/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78d51894-64f2-4736-8aed-2a97ed14ba67/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Poised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProjectInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/.idea/Poised ERD.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/CompletedProjects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/L3T08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/Poised Dependency Diagram.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/PoisedProjects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/src/Poised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/src/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3T08/src/ProjectInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/src/PoisedPOssible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/src/PoisedStoredData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/AutomobileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/PoisedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BDISUBchZfCl95sJK91ZuHA1F5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +115,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files/Java/jre1.8.0_333/lib/ext/mysql-connector-java-8.0.29.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,8 +136,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656434266167</updated>
-      <workItem from="1656434267484" duration="1000" />
+      <workItem from="1656434267484" duration="1746000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -8,6 +8,8 @@ public class Project {
     Person architect;
     Person contractor;
     Person customer;
+    Person engineer;
+    Person manager;
     boolean finalise;
 
     /**
@@ -17,19 +19,23 @@ public class Project {
      * @param contractor An object from the Person class with a Contractor type
      * @param customer An object from the Person class with a Customer type
      */
-    Project(ProjectInfo projectInfo, Person architect, Person contractor, Person customer){
+    Project(ProjectInfo projectInfo, Person architect, Person contractor, Person customer, Person engineer,
+            Person manager){
 
         this.projectInfo = projectInfo;
         this.architect = architect;
         this.contractor = contractor;
         this.customer = customer;
+        this.engineer = engineer;
+        this.manager = manager;
 
         // If the user chose not to input a project name, then this else if statement runs.
         if(projectInfo.projectName.equals("") && customer.name.contains(" ")){
 
             /*
             If the user inputs a blank project name AND the customer's name contains a space,
-            then the customer's name is split in two and this.projectName is set to the building type plus the customer's last name.
+            then the customer's name is split in two and this.projectName is set to the building type plus the
+            customer's last name.
              */
             String[] firstLastName = customer.name.split(" ", 2);
 
@@ -52,30 +58,6 @@ public class Project {
     }
 
     /**
-     * Gets the architect of the project
-     * @return Person object of the architect
-     */
-    public Person getArchitect(){
-        return architect;
-    }
-
-    /**
-     * Gets the contractor of the project
-     * @return Person object of the contractor
-     */
-    public Person getContractor(){
-        return contractor;
-    }
-
-    /**
-     * Gets the customer of the project
-     * @return Person object of the customer
-     */
-    public Person getCustomer(){
-        return customer;
-    }
-
-    /**
      * Finalises the project
      * @param finalise boolean is passed of whether the project has been finalised or not.
      */
@@ -89,7 +71,8 @@ public class Project {
      */
     public String createInvoice(){
 
-        // The customer's details, the complete date of the project and the total amount they owe are added to a string, which is returned.
+        // The customer's details, the complete date of the project and the total amount they owe are added to a string,
+        // which is returned.
         String invoice = "\nCustomer Invoice\n" + customer;
         invoice += "\nComplete Date: " + projectInfo.getCompleteDate();
         invoice += "\nAmount owed: R" + String.format("%.2f", projectInfo.getTotalOwed()) + "\n";
@@ -114,7 +97,9 @@ public class Project {
 
         output += architect;
         output += contractor;
-        output += customer + "\n";
+        output += customer;
+        output += engineer;
+        output += manager;
 
         return output;
     }

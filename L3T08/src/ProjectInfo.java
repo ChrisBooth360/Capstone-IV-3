@@ -28,7 +28,8 @@ public class ProjectInfo {
      * @param totalFee The total fee of the projects
      * @param deadline The deadline of the project
      */
-    ProjectInfo(String projectName, String buildingType, String address, int erfNumber, double totalFee, LocalDate deadline){
+    ProjectInfo(String projectName, String buildingType, String address, int erfNumber, double totalFee,
+                LocalDate deadline){
 
         this.projectNumber = 1;
         this.projectName = projectName;
@@ -82,16 +83,6 @@ public class ProjectInfo {
     public void setAddress(String newAddress){
 
         address = newAddress;
-
-    }
-
-    /**
-     * Sets the ERF number of the project
-     * @param newErfNumber new ERF number integer
-     */
-    public void setErfNumber(int newErfNumber){
-
-        erfNumber = newErfNumber;
 
     }
 
@@ -183,7 +174,7 @@ public class ProjectInfo {
      */
     public String getDeadline(){
 
-        DateTimeFormatter datePattern = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+        DateTimeFormatter datePattern = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 
         return deadline.format(datePattern);
     }
@@ -207,7 +198,8 @@ public class ProjectInfo {
     }
 
     /**
-     * Gets the complete date. If complete date is null, then it is set to today's date. The complete date is formatted into a string.
+     * Gets the complete date. If complete date is null, then it is set to today's date. The complete date is formatted
+     * into a string.
      * @return string of the complete date
      */
     public String getCompleteDate(){
@@ -223,7 +215,7 @@ public class ProjectInfo {
 
         }
 
-        DateTimeFormatter datePattern = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+        DateTimeFormatter datePattern = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 
         return completeDate.format(datePattern);
 

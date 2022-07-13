@@ -1,5 +1,4 @@
-
-
+package mytest;
 
 public class Loan {
     private double yearlyInterestRate;
